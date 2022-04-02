@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "L2 little game",
+"dataUrl": "l2 game.data.unityweb",
+"asmCodeUrl": "l2 game.asm.code.unityweb",
+"asmMemoryUrl": "l2 game.asm.memory.unityweb",
+"asmFrameworkUrl": "l2 game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
